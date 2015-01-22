@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cache.citypet.cn/ipa/CityPet.ipa</string>
+					<string>http://cache.citypet.cn/ipa/citypet.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
